@@ -9,7 +9,7 @@ This project uses python with the following libraries:
 
 * [keras](https://keras.io/)
 
-* [TensorFlow](hhttps://www.tensorflow.org/)
+* [TensorFlow](https://www.tensorflow.org/)
 
 
 ## Usage
